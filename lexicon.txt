@@ -1,0 +1,16 @@
+# Lexicon phát âm (Pronunciation Dictionary) cho CSE457 - Lab 3
+# Định dạng chuẩn: WORD PHONE_1 PHONE_2 ... PHONE_K
+
+# 1. Tập chữ số (Digits vocabulary - Lab 2 & Lab 3)
+khong   k h aw ng
+mot     m o t
+hai     h a j
+ba      b a
+bon     b aw n
+
+# 2. Tập khẩu lệnh điều khiển (Commands vocabulary - Case study Lab 3)
+mo      m o
+dong    d aw ng
+len     l e n
+xuong   s u o ng
+dung    z u ng
